@@ -25,3 +25,7 @@ exclude: [
 ]
 
 excerpt_separator: <!--more-->
+
+gems: [
+ jekyll-paginate,
+]
